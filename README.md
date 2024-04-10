@@ -1,3 +1,4 @@
 # web-project-
-this is my first git reposity
+this is my first git repository
+<br>
 author - Akshaya 
